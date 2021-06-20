@@ -7,6 +7,16 @@ body {
     background-color:  darkgray;    
 }
 
-#TopBar {
-    background-color:  gray ;    
+#Main {
+    background-color:  gray ;
+    width: 75%;
+    margin: auto;
+    padding: 10px;
+}
+
+
+#title {
+    text-indent: 10px;
+    text-align: center;
+    padding: 10px;
 }
