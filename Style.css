@@ -23,14 +23,12 @@ body {
 }
 
 #title {
-    text-indent: 10px;
     padding: 10px;
 }
 
 
 #einde {
     bottom: 10px;
-    text-indent: 10px;
     padding: 10px;
     
 }
@@ -46,8 +44,7 @@ body {
 }
 
 #blog {
-    text-indent: 10px;
-    padding: 30px;
+    padding: 20px;
 }
 
 #datumupload {
