@@ -58,7 +58,11 @@ body {
 #datumupload {
     position: relative;
     left: 40%;
-    top: 0px;
+}
+
+#blogtext {
+    position: relative;
+    top: 10px;
 }
 
 #gearfoto{
@@ -67,6 +71,6 @@ body {
     margin-right: auto;
     width: 50%;
     position: relative;
-    top: 10px;
+    top: 20px;
 
 }
