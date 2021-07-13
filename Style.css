@@ -57,3 +57,13 @@ body {
     left: 40%;
     top: 0px;
 }
+
+#gearfoto{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    position: relative;
+    top: 10px;
+
+}
